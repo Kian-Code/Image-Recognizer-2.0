@@ -1,0 +1,66 @@
+body{
+    background: black;
+}
+
+.Header_Div{
+    background: black;
+    color: darkblue;
+}
+
+.Header_Div img{
+    width: 100px;
+}
+
+.Main_Div{
+    background: darkseagreen;
+    padding:10px;
+    margin-top: 15px;
+    border: 4px solid whitesmoke;
+}
+
+.Main_Div label{
+    background: seashell;
+    width: 310px;
+    padding: 10px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#Camera , #Result{
+    border: 2px solid wheat;
+    width:  310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.Main_Div button{
+    width: 310 px;
+    font-size: 16px;
+    border: 1px solid;
+    box-shadow: 5px 5px 18px white;
+}
+
+.Footer_Div{
+    margin-bottom: 50px;
+}
+
+.Footer_Div h4{
+    background: azure;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.Footer_Div img{
+    width: 70px;
+}
+
+.Copyright_Footer{
+    position: fixed;
+    color: blue;
+    width: 100%;
+    background: black;
+    line-height:3;
+    text-align: center;
+    bottom: 0;
+    font-size: 20px;
+}
